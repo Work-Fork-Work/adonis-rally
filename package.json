@@ -40,7 +40,7 @@
     "node-exceptions": "^1.0.3",
     "node-uuid": "^1.4.7",
     "slug": "^0.9.1",
-    "standard": "^8.6.0",
+    "standard": "^10.0.3",
     "yargs": "^6.5.0"
   },
   "autoload": {
